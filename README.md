@@ -9,6 +9,7 @@ AIを使って、誰でも簡単にオリジナルの絵本を作成できるWeb
 
 *   **AIによる物語生成**: テーマを入力するだけで、起承転結のあるストーリーを自動生成します。
 *   **挿絵の自動生成**: 物語の内容に合わせた可愛いイラストをAIが描きます。
+*   **モデルの切り替え**: Gemini 2.0 Flashのほか、NanoBanana Proなどのモデルに切り替えて生成を試すことができます。
 *   **スタイルの統一**: 生成されるイラストのタッチや雰囲気を統一し、絵本としての完成度を高めます。
 *   **直感的な操作**: 難しい設定は不要。ブラウザ上で簡単に操作できます。
 
@@ -55,7 +56,7 @@ npm run dev
 *   TypeScript
 *   Vite
 *   Tailwind CSS
-*   Google Gemini API (Gemini 2.0 Flash / Gemini 2.5 Flash Image)
+*   Google Gemini API (Gemini 2.0 Flash / Gemini 2.5 Flash Image / NanoBanana Pro 対応)
 
 ## 🔒 セキュリティについて
 
