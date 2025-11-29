@@ -290,7 +290,7 @@ function App() {
             <div className="flex items-center space-x-2">
               <BookIcon className="w-6 h-6" />
               <h1 className="text-xl font-bold tracking-wide">
-                Create Book Generator
+                絵本ジェネレーター
               </h1>
             </div>
           </div>

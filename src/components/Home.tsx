@@ -96,7 +96,7 @@ export const Home: React.FC<HomeProps> = ({ books, onCreateNew, onAIGenerate, on
           <div className="flex items-center space-x-3">
             <Book className="w-10 h-10" />
             <div>
-              <h1 className="text-3xl font-bold tracking-wide">Create Book Generator</h1>
+              <h1 className="text-3xl font-bold tracking-wide">絵本ジェネレーター</h1>
               <p className="text-amber-100 text-sm mt-1">あなたの物語を、一冊の本に。</p>
             </div>
           </div>

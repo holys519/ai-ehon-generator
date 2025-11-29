@@ -1,9 +1,9 @@
-# 絵本作成ジェネレーター (Storybook Generator)
+# 絵本ジェネレーター (Ehon Generator)
 
 AIを使って、誰でも簡単にオリジナルの絵本を作成できるWebアプリケーションです。
 テーマを入力するだけで、物語の文章と挿絵を自動生成し、世界に一つだけの絵本を作ることができます。
 
-**[👉 デモサイトはこちら (GitHub Pages)](https://holys519.github.io/create-book-generator/)**
+**[👉 デモサイトはこちら (GitHub Pages)](https://holys519.github.io/ehon-generator/)**
 
 ![アプリのスクリーンショット](home.png)
 
@@ -34,10 +34,10 @@ AIを使って、誰でも簡単にオリジナルの絵本を作成できるWeb
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/holys519/create-book-generator.git
+git clone https://github.com/holys519/ehon-generator.git
 
 # ディレクトリに移動
-cd create-book-generator
+cd ehon-generator
 
 # 依存関係をインストール
 npm install
